@@ -1,6 +1,7 @@
 # Election_Analysis
+This report is broken down into two parts.  The first part, or "Project", is the candidate analysis while the second part, or "Challenge", is the county analysis.
 
-## Project Overview
+## Project Overview - Candidate Specific
 This project completes an election audit of a recent local congressional election in Colorado.  This was tasked by a Colorado Board of Elections employee.  The items calculated are as follows:
 
 1. Calculate the total number of votes cast
@@ -9,11 +10,11 @@ This project completes an election audit of a recent local congressional electio
 4. Calculate the percentage of votes each candidate won
 5. Determine the winner of the election based on popular vote
 
-## Resources
+## Project Resources
 - Data Source: election_results.csv
 - Software: Python v3.10.2, Visual Studio Code v1.65.1
 
-## Summary - Candidate Specific
+## Project Summary - Candidate Specific
 The analysis of the election show that:
 - There were 369,711 total votes cast in the election
 - The candidates were:
@@ -27,7 +28,7 @@ The analysis of the election show that:
 - The winner of the election was:
 	- Diana DeGette who receieved 73.8% of the votes with 272,892 total votes 
 
-## Challenge Overview
+## Challenge Overview - County Specific
 This project completes an election audit of a recent local congressional election in Colorado.  This was tasked by a Colorado Board of Elections employee.  The "project" portion calculated the candidate results while the "Challenge" calculated county results.  The items calculated are as follows:
 
 1. Calculate the total number of votes cast
@@ -36,7 +37,7 @@ This project completes an election audit of a recent local congressional electio
 4. Calculate the percentage of votes from each county
 5. Determine the county that had the highest voter turnout  
 
-## Resources
+## Challenge Resources
 - Data Source: election_results.csv
 - Software: Python v3.10.2, Visual Studio Code v1.65.1
 
